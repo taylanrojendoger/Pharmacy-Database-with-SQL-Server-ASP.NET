@@ -1,6 +1,6 @@
 # Pharmacy-Database-with-SQL-Server-ASP.NET
 
-Database Systems Project: Implementing a database for a Pharmacy 
+Database Systems Project: Implementing a database and a basic website for a Pharmacy 
 
 By using: Microsoft SQL Server, ASP.NET, C#
 
